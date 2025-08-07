@@ -1,2 +1,2 @@
-# student-record-gui
- A simple student record management GUI using Tkinter.
+# Student Record Management System - GUI (Tkinter)
+ Python-based GUI application to manage student records with sorting, file handling, and CGPA calculator.
